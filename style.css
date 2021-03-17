@@ -1,4 +1,11 @@
-#home{
-  background-image:linear-gradient(#c9ffbf,#ffafbd);
-  min-height:100vh;
+article{
+  width:22%;
+}
+aside{
+  width:74%;
+}
+.profile-contents{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:50px;
 }
