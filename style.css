@@ -1,8 +1,8 @@
 .photo{
-  width:22%;
+  width:30%;
 }
 aside{
-  width:74%;
+  width:60%;
   margin-top:100px;
   text-align:left;
 }
@@ -36,10 +36,10 @@ body{
   font-size:20px;
 }
 .product1{
-  padding: 20px;
-  margin: 20px;
+  padding: 30px;
+  margin: 30px;
 }
 .product2{
-  padding: 20px;
-  margin: 20px;
+  padding: 30px;
+  margin: 30px;
 }
