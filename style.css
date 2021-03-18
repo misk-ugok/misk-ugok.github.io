@@ -9,3 +9,12 @@ aside{
   justify-content:space-between;
   margin-bottom:50px;
 }
+p{
+  font-size:14px;
+}
+h1{
+  font-size:20px;
+}
+body{
+  font-family:sans-serif;
+}
