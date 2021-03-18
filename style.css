@@ -1,8 +1,10 @@
-article{
+.photo{
   width:22%;
 }
 aside{
   width:74%;
+  margin-top:100px;
+  text-align;left;
 }
 .profile-contents{
   display:flex;
@@ -12,18 +14,32 @@ aside{
 p{
   font-size:16px;
   line-height:1.7;
+  color:#1c315d;
 }
 h1{
   font-size:34px;
   text-align:center;
-  boder-bottom:2px solid #0bd;
+  color:white;
+  backgroudcolor:#1c315d;
 }
 h2{
   font-size:24px;
   text-align:center;
-  color:#0bd;
+  color:#1c315d;
 }
 body{
   font-family:sans-serif;
   text-align:center;
+  color:#1c315d;
+}
+.name{
+  font-size:20px;
+}
+.product1{
+  margin:auto;
+  padding:auto;
+}
+.product2{
+  margin:auto;
+  padding:auto;
 }
