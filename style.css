@@ -1,7 +1,5 @@
-<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:300 rel="stylesheet">
-
 .photo{
-  width:40%;
+  width:35%;
 }
 .photo2{
   width:60%;
@@ -62,10 +60,7 @@ body{
   text-align:center;
   margin-top:10;
 }
-#home{
-  background-image:liner-gradient(#c9ffbf,#ffafbd)
-    min-height:100vh;
-}
+
 h3{
   font-weight:800;
   font-siz:large;
