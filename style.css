@@ -33,7 +33,6 @@ body{
 }
 .name{
   font-size:20px;
-  font-weight:bold;
 }
 .product1{
   padding: 30px;
@@ -62,7 +61,4 @@ body{
 #home{
   background-image:liner-gradient(#c9ffbf,#ffafbd)
     min-height:100vh;
-}
-.point{
-  font-weight:bold;
 }
