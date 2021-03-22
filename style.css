@@ -62,3 +62,7 @@ body{
   background-image:liner-gradient(#c9ffbf,#ffafbd)
     min-height:100vh;
 }
+h3{
+  font-weight:800;
+  font-siza:large;
+}
