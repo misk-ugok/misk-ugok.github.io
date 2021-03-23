@@ -6,6 +6,15 @@
   margin-top:34px;
   list-stype:none;
 }
+.main-nav li{
+  margin-left:36px;
+}
+.main-nav a{
+  color:black;
+}
+.main-nav a:hover{
+  color:black;
+}
 .profile{
   text-align:center;
   width:auto;
