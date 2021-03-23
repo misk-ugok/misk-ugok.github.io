@@ -2,6 +2,7 @@
 
 .profile{
   text-align:center;
+  width:auto;
 }
 .profile-contents{
   display:flex;
