@@ -1,20 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
-.main-nav{
-  display:flex;
-  font-size:1.25rem;
-  text-transform:uppercase;
-  margin-top:34px;
-  list-stype:none;
-}
-.main-nav li{
-  margin-left:36px;
-}
-.main-nav a{
-  color:#000000;
-}
-.main-nav a:hover{
-  color:#000000;
-}
 .profile{
   text-align:center;
   width:auto;
