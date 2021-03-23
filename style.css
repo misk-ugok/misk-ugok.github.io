@@ -14,7 +14,6 @@
 p{
   font-size:16px;
   line-height:1.7;
-  color:#1c315d;
 }
 .profile{
   text-align:left;
@@ -22,17 +21,15 @@ p{
 h1{
   font-size:50px;
   text-align:center;
-  color:#1c315d;
-  font-weight:bold;
 }
 h2{
   font-size:34px;
   text-align:center;
-  color:#1c315d;
 }
 body{
   font-family:sans-serif;
   color:#1c315d;
+  background-color:#e5e2df;
 }
 .name{
   font-size:20px;
@@ -83,7 +80,4 @@ footer {
   height: 120px; 
   text-align: center;
   padding: 50px 0;
-}
-.footer-text {
-  color:#1c315d;
 }
