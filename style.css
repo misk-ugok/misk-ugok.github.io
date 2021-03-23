@@ -4,6 +4,9 @@
   text-align:center;
   width:auto;
 }
+.Misa{
+  font-weight:bold;
+}
 .profile-contents{
   display:flex;
   justify-content:space-between;
@@ -14,8 +17,6 @@ p{
   line-height:1.7;
 }
 h1{
-  font-size:60px;
-  font-weight:bold;
   text-align:center;
 }
 h2{
