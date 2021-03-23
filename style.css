@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 
 .photo{
-  width:40%;
+  width:30%;
+  text-align: right;
 }
 .photo2{
   width:40%;
