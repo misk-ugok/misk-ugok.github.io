@@ -1,5 +1,5 @@
 .photo{
-  width:35%;
+  width:50%;
 }
 .photo2{
   width:50%;
@@ -49,12 +49,12 @@ body{
 .product2{
   padding: 30px;
   margin: 30px;
-  width:70%;
+  width:50%;
 }
 .product2-2{
   padding: 30px;
   margin: 30px;
-  width:30%;
+  width:50%;
 }
 .home-content{
   text-align:center;
