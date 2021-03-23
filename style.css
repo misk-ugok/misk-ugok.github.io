@@ -1,13 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 
-.photo{
-  width:30%;
-  text-align: right;
-}
-.photo2{
-  width:40%;
-  margin-top:100px;
-  text-align:left;
+.profile{
+  text-align:center;
 }
 .profile-contents{
   display:flex;
