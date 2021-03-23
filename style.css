@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+
 .photo{
   width:40%;
 }
@@ -30,6 +32,7 @@ body{
   font-family:sans-serif;
   color:#1c315d;
   background-color:#e5e2df;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 .name{
   font-size:20px;
