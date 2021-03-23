@@ -42,29 +42,29 @@ body{
   width:50%;
 }
 .product1-2{
-    padding: 30px;
+  padding: 30px;
   margin: 30px;
   width:50%;
 }
 .product2{
   padding: 30px;
   margin: 30px;
-  width:30%;
+  width:40%;
 }
 .product2-2{
   padding: 30px;
   margin: 30px;
-  width:70%;
+  width:60%;
 }
 .home-content{
-  text-align:center;
+  text-align:left;
   margin-top:10;
 }
 
 h3{
   font-weight:800;
   font-siz:large;
-  text-align: center;
+  text-align: left;
 }
 header {
   width: 100%;
